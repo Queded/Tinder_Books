@@ -1,0 +1,108 @@
+/*#cidades {
+    width: 1800px;
+}
+
+#cidade1 {
+    float: left;
+    width: 550px;
+}
+
+#cidade2 {
+    float: left;
+    width: 550px;
+}
+
+#cidade3 {
+    float: left;
+    width: 550px;
+}
+
+*/
+
+body {
+    background-color:#F5F5F5;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+p {    
+  text-align: justify;
+    
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+/* button1 {
+    background-color:#FF4500; /* Red */
+    /* border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+} */
+/* 
+button2 {
+    background-color:#FFA500; Red */
+   /* border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+} */
+
+
+
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+
+.book {
+    display: block; 
+}
+
+/* .hidden {
+    display: none; 
+} */
+
+/* .active {
+    display: inline; 
+} */ 
+
+@media (max-width:400px){
+    h1{
+        font-size:40px;
+        letter-spacing: 10px;
+    }
+}
+
+
+/* .book::after {
+content: 'abc';
+}
+
+
+.book::before {
+    content: 'abc';
+    } */
